@@ -1,7 +1,7 @@
 Hi There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arcus
 =============================================================================================================================
 
-CYS Student (AU)
+CYS Student [(AU)](http://au.edu.pk)
 ---------------------------
 
 * 🌍  I'm based in Islamabad
@@ -25,8 +25,8 @@ CYS Student (AU)
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DenialArcus"><img src="https://github-readme-stats.vercel.app/api?username=DenialArcus&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="DenialArcus's GitHub stats" /></a>
+<p align="center"><a href="http://www.github.com/DenialArcus"><img src="https://github-readme-stats.vercel.app/api?username=DenialArcus&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="DenialArcus's GitHub stats" /></a></p>
 
-<a href="http://www.github.com/DenialArcus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DenialArcus&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center"><a href="http://www.github.com/DenialArcus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DenialArcus&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
-<a href="https://github.com/DenialArcus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenialArcus&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center"><a href="https://github.com/DenialArcus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenialArcus&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
