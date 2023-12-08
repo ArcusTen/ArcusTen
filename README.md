@@ -1,4 +1,4 @@
-Hi There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arcus
+Hi There! Arcus Here!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
 CYS Student [(AU)](http://au.edu.pk)
@@ -7,7 +7,7 @@ CYS Student [(AU)](http://au.edu.pk)
 * 🌍  I'm based in Islamabad
 * 🖥️  See my portfolio at [TheCyberThesis](http://thecyberthesis.com)
 * ✉️  You can contact me at [moharisofficial@gmail.com](mailto:moharisofficial@gmail.com)
-* 🧠  I'm currently learning Machine Learning, Assembly\_x86
+* 🧠  I'm currently learning Assembly\_x86, Machine Learning
 
 ### Skills
 
