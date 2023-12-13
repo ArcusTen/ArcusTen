@@ -1,56 +1,79 @@
-Hi There! Arcus Here!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=============================================================================================================================
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-CYS Student [(AU)](http://au.edu.pk)
----------------------------
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=880000&center=true&vCenter=true&random=false&lines=Hi+There!!;+Arcus+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
+</h1>
 
-* 🌍  I'm based in Islamabad
-* 🖥️  See my portfolio at [TheCyberThesis](http://thecyberthesis.com)
-* ✉️  You can contact me at [moharisofficial@gmail.com](mailto:moharisofficial@gmail.com)
-* 🧠  I'm currently learning Assembly\_x86, Machine Learning
-
-### Skills
+<h3 align="center">
+  CYS Student from <a href="https://au.edu.pk" style="text-decoration: none; color: inherit; font-weight: bold;">AU</a> 🇵🇰
+</h3>
 
 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://app.flutterflow.io/" target="_blank" rel="noreferrer"><img src="https://app.flutterflow.io/images/ff_logo_small.png" width="36" height="36" alt="FlutterFlow" /></a>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on _**Notes-Taking App Development**_
+ 
+ 🌱 I’m currently learning _**NextJS**_, _**Assembly_x86**_, _**FlutterFlow**_
+
+💬 Ask me about _**Node.js**_, _**Firebase**_, _**React...**_ or _**anything**_ [.....](https://github.com/DenialArcus/DenialArcus/issues)
+
+⚡ Fun Fact: _**My cat can walk across the keyboard and get a higher score than me...**_
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:moharisofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://thecyberthesis.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <p align="center"> <a href="https://www.github.com/DenialArcus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/arcusten" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: none)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-haris-815aa326a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+</p>
+
+ <hr/>
+ 
+<h2 align="center">Skills 👨🏻‍🔬</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,react,html,css,vscode,linux" /> 
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,tailwind,firebase,java,javascript,nodejs,nextjs" /><br> <!-- figma,mongodb,flask,,mysqltypescript,express,mongodb,r, -->
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2> Here, watch me play Snake Game 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">My GitHub Stats ⬇️</h2>
+
+<!-- GitHub Stats  & Top Lang -->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=DenialArcus&show_icons=true&theme=highcontrast&title_color=f10000&icon_color=f040983">
+  <br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DenialArcus&theme=highcontrast&title_color=f10000&icon_color=f040983">
 </p>
 
 
+<hr/>
 
-### Socials
+<br/>
 
-<p align="left"> <a href="https://www.github.com/DenialArcus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/arcusten" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: none)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-haris-815aa326a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-</p>
-
-### My GitHub Stats:
-
-<!-- GitHub Stats -->
 <div align="center">
-  <a href="http://www.github.com/DenialArcus">
-    <img src="https://github-readme-stats.vercel.app/api?username=DenialArcus&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="DenialArcus's GitHub stats" />
-  </a>
+<a href='https://ko-fi.com/VdsdsdcdescX' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <a href="http://www.github.com/DenialArcus">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenialArcus&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-</div>
-
-<!-- Top Languages Stats -->
-<div align="center">
-  <a href="https://github.com/DenialArcus">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenialArcus&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-</div>
-
+<br/>
