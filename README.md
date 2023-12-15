@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,react,html,css,vscode,linux" /> 
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,tailwind,firebase,java,javascript,nodejs,nextjs" /><br> <!-- figma,mongodb,flask,,mysqltypescript,express,mongodb,r, -->
+    <img src="https://skillicons.dev/icons?i=c,python,tailwind,firebase,java,javascript,nodejs,nextjs" /><br> <!-- figma,mongodb,flask,,mysqltypescript,express,mongodb,r, -->
 </div>
 
 <br/>
