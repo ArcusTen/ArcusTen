@@ -16,9 +16,9 @@
  
  🔭 I’m currently working on _**Notes-Taking App Development**_
  
- 🌱 I’m currently learning _**NextJS**_, _**Assembly_x86**_, _**FlutterFlow**_
+ 🌱 I’m currently learning _**NextJS**_, _**FlutterFlow**_
 
-💬 Ask me about _**Node.js**_, _**Firebase**_, _**React...**_ or _**anything**_ [.....](https://github.com/DenialArcus/DenialArcus/issues)
+💬 Ask me about _**Football**_, _**Music**_, or _**anything**_ [.....](https://github.com/DenialArcus/DenialArcus/issues)
 
 ⚡ Fun Fact: _**My cat can walk across the keyboard and get a higher score than me...**_
 
@@ -41,8 +41,8 @@
 <h2 align="center">Skills 👨🏻‍🔬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,react,html,css,vscode,linux" /> 
-    <img src="https://skillicons.dev/icons?i=c,python,tailwind,firebase,java,javascript,nodejs,nextjs" /><br> <!-- figma,mongodb,flask,,mysqltypescript,express,mongodb,r, -->
+    <img src="https://skillicons.dev/icons?i=git,github,c,python,java,html,css,vscode,neovim,linux" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,firebase,javascript,nodejs,nextjs" /><br> <!-- figma,mongodb,flask,,mysqltypescript,express,mongodb,r, -->
 </div>
 
 <br/>
