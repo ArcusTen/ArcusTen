@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on _**Notes-Taking App Development**_
  
- 🌱 I’m currently learning _**NextJS**_, _**FlutterFlow**_
+ 🌱 I’m currently learning _**NextJS**_ because why not & _**ASM_x86**_ for better hardware understanding
 
 💬 Ask me about _**Football**_, _**Music**_, or _**anything**_ [.....](https://github.com/DenialArcus/DenialArcus/issues)
 
