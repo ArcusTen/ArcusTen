@@ -41,8 +41,8 @@
 <h2 align="center">Skills 👨🏻‍🔬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,c,python,java,html,css,vscode,neovim,linux" />
-    <img src="https://skillicons.dev/icons?i=react,tailwind,firebase,javascript,nodejs,nextjs" /><br> <!-- figma,mongodb,flask,,mysqltypescript,express,mongodb,r, -->
+    <img src="https://skillicons.dev/icons?i=git,github,c,python,html,css,vscode,neovim,linux" />
+    <img src="https://skillicons.dev/icons?i=react,firebase,javascript,nodejs" /><br> <!-- figma,mongodb,flask,,mysqltypescript,express,mongodb,r, -->
 </div>
 
 <br/>
