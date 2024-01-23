@@ -70,6 +70,16 @@
 
 <hr/>
 
+<h2 align="center">My CTF Stats 🚩</h2>
+
+<!-- GitHub Stats  & Top Lang -->
+<p align = "center">
+  <img src="assets/tryhackme.png" alt="TryHackMe">
+</p>
+
+
+<hr/>
+
 <br/>
 
 <div align="center">
