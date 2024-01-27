@@ -74,7 +74,7 @@
 
 <!-- GitHub Stats  & Top Lang -->
 <p align = "center">
-  <img src="assets/tryhackme.png" alt="TryHackMe">
+  <img src="assets/tryhackme_lat.png" alt="TryHackMe">
 </p>
 
 
