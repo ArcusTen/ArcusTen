@@ -14,11 +14,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on _**Notes-Taking App Development**_
+ 🔭 I’m currently working on **AI SaaS Platform**
  
- ✈️ I’m currently shifting to _**NextJS**_ because why not
+ ✈️ I’m currently shifting to **NextJs** because why not
 
-💬 Ask me about _**Football**_, _**Music**_, or _**anything**_ [.....](https://github.com/DenialArcus/DenialArcus/issues)
+💬 Ask me about **Football**, **Music**, or **anything** [.....](https://github.com/DenialArcus/DenialArcus/issues)
 
 ⚡ Fun Fact: _**My cat can walk across the keyboard and get a higher score than me...**_
 
@@ -29,7 +29,10 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://arcusten.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5422?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+      <a href="https://arcus10.vercel.app" target="_blank">
+     <img src="https://img.shields.io/badge/Blogsite-0d7060?style=for-the-badge&logo=safari&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -83,7 +86,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/VdsdsdcdescX' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/VdsdsdcdcsdsdcescX' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
