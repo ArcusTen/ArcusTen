@@ -18,7 +18,7 @@
  
  ✈️ I’m currently shifting to **NextJs** because why not
 
-💬 Ask me about **Football**, **Music**, or **anything** [.....](https://github.com/DenialArcus/DenialArcus/issues)
+💬 Ask me about **Football**, **Music**, or **anything** [.....](https://github.com/ArcusTen/ArcusTen/issues)
 
 ⚡ Fun Fact: _**My cat can walk across the keyboard and get a higher score than me...**_
 
@@ -36,7 +36,7 @@
   </a>
 </div>
 
- <p align="center"> <a href="https://www.github.com/DenialArcus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/arcusten" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: none)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-haris-815aa326a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+ <p align="center"> <a href="https://www.github.com/ArcusTen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/arcusten" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: none)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-haris-815aa326a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
 
  <hr/>
@@ -44,8 +44,8 @@
 <h2 align="center">Skills 👨🏻‍🔬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,c,python,html,css,vscode,neovim,linux" />
-    <img src="https://skillicons.dev/icons?i=react,firebase,javascript,nodejs" /><br> <!-- figma,mongodb,flask,,mysqltypescript,express,mongodb,r, -->
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,bash,python,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=react,firebase,nodejs,vscode,linux,docker,kubernetes,jenkins" /><br> <!-- figma,mongodb,flask,,mysqltypescript,express,mongodb,r, -->
 </div>
 
 <br/>
@@ -65,9 +65,9 @@
 
 <!-- GitHub Stats  & Top Lang -->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=DenialArcus&show_icons=true&theme=highcontrast&title_color=f10000&icon_color=f040983">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ArcusTen&show_icons=true&theme=highcontrast&title_color=f10000&icon_color=f040983">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DenialArcus&theme=highcontrast&title_color=f10000&icon_color=f040983">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ArcusTen&theme=highcontrast&title_color=f10000&icon_color=f040983">
 </p>
 
 
