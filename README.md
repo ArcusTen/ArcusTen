@@ -3,20 +3,18 @@
 </h1>
 
 <h3 align="center">
-  CYS Student from <a href="https://au.edu.pk" style="text-decoration: none; color: inherit; font-weight: bold;">AU</a> 🇵🇰
+  Cybersecurity Student from <a href="https://au.edu.pk" style="text-decoration: none; color: inherit; font-weight: bold;">AU</a> 🇵🇰
 </h3>
-
-
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **AI SaaS Platform**
+ 🔭 I’m currently working on **Network Fuzzing Tool**
  
- ✈️ I’m currently shifting to **NextJs** because why not
+ 🏫 I’m currently learning **Binary Exploitation** for CTFs
 
-💬 Ask me about **Football**, **Music**, or **anything** [.....](https://github.com/ArcusTen/ArcusTen/issues)
+💬 Ask me about **Football**, **CTFs**, or **anything** [.....](https://github.com/ArcusTen/ArcusTen/issues)
 
 ⚡ Fun Fact: _**My cat can walk across the keyboard and get a higher score than me...**_
 
@@ -43,7 +41,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,bash,python,html,css,javascript" />
-    <img src="https://skillicons.dev/icons?i=nodejs,vscode,linux,docker,kubernetes,jenkins" /><br> <!-- react,firebase,figma,mongodb,flask,mysqltypescript,express,mongodb,r, -->
+    <img src="https://skillicons.dev/icons?i=nodejs,vscode,linux,docker,kubernetes" /><br> <!-- react,firebase,figma,mongodb,flask,mysqltypescript,express,mongodb,r, -->
 </div>
 
 <br/>
