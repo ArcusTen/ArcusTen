@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=189b63&center=true&vCenter=true&random=false&lines=Hi+There!!;+Arcus+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=1fc780&center=true&vCenter=true&random=false&lines=Hi+There!!;+Arcus+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
 </h1>
 
 <h3 align="center">
@@ -62,9 +62,9 @@
 
 <!-- GitHub Stats  & Top Lang -->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ArcusTen&show_icons=true&theme=highcontrast&title_color=00E0DD&icon_color=f10000">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ArcusTen&show_icons=true&theme=highcontrast&title_color=38e099&icon_color=f2ff00">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ArcusTen&theme=highcontrast&title_color=00E0DD">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ArcusTen&theme=highcontrast&title_color=38e099">
 </p>
 
 <hr/>
