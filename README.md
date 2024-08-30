@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=1fc780&center=true&vCenter=true&random=false&lines=Hi+There!!;+Arcus+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=189b63&center=true&vCenter=true&random=false&lines=Hi+There!!;+Arcus+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
 </h1>
 
 <h3 align="center">
@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **TCT CTF 2024**
+ 🔭 I’m currently working on **[TCT_CTF](https://ctf.thecyberthesis.com/) 2024**
  
  🏫 I’m currently learning **Web App Security & DevOps Workflow**
 
@@ -21,14 +21,16 @@
  </div>
  
 <div align="center"> 
+
+
+  <a href="https://thecyberthesis.com" target="_blank">
+     <img src="https://img.shields.io/badge/StartUp-189b63?style=for-the-badge&logo=_&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
   <a href="mailto:moharisofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://thecyberthesis.com" target="_blank">
-     <img src="https://img.shields.io/badge/StartUp-FF5422?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-      <a href="https://arcus10.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Blogsite-0d7060?style=for-the-badge&logo=safari&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+      <a href="https://blog.thecyberthesis.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-a81505?style=for-the-badge&logo=_&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
