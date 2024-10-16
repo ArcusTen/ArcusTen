@@ -10,11 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[TCT_CTF](https://ctf.thecyberthesis.com/) 2024**
- 
- 🏫 I’m currently learning **Web App Security & DevOps Workflow**
-
-💬 Ask me about **Football**, **CTFs**, or **anything** [.....](https://github.com/ArcusTen/ArcusTen/issues)
+ 🏫 I’m currently focused on learning **Software Security** and secure Deployment of **CI/CD** Pipelines.
 
 ⚡ Fun Fact: _**My cat can walk across the keyboard and get a higher score than me...**_
 
